@@ -1,0 +1,7 @@
+{
+  "name": "Supmap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
